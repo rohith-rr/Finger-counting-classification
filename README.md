@@ -38,17 +38,7 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-1. **Prepare the dataset:**
-   - Ensure you have a dataset of images with different numbers of fingers held up.
-   - Organize the dataset into appropriate folders for training and testing.
-
-2. **Train the models:**
-   - Run the training scripts for Decision Tree, SVM, and Random Forest models.
-   - Adjust hyperparameters as needed for optimal performance.
-
-3. **Evaluate the models:**
-   - Use the provided evaluation scripts to assess the accuracy and performance of each model.
-   - Compare the results to determine which algorithm performs best for this task.
+Run all the cells in the notebook in the given order
 
 ## Results
 
