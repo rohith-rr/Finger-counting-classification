@@ -58,7 +58,7 @@ In this project, we explored three fundamental machine learning algorithms for t
 
 ## Acknowledgements
 
-This project is part of the course offered by iHub, IIIT Hyderabad: Foundations of Modern Machine Learning. We thank the course instructors and assistants for their guidance and support.
+This project is part of the course offered by iHub, IIIT Hyderabad: Foundations of Modern Machine Learning. I thank the course instructors and assistants for their guidance and support.
 
 
 
